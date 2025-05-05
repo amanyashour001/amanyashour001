@@ -1,30 +1,51 @@
-# Hi there, I'm Amany! 👋
+# Hi there, I'm Amany Ashour! 👋
 
-![Banner Image](your_banner_image_url_here)
+![Banner](https://i.imgur.com/YOUR_BANNER_IMAGE.png) <!-- يمكنك تغيير الرابط لصورة بانر تعجبك -->
 
-## About Me 🚀
+## 🚀 About Me
 
-I'm an aspiring **Junior Frontend Developer** currently learning the foundations of web development. I’m passionate about creating clean, responsive, and user-friendly websites. My goal is to grow into a skilled developer who builds accessible and impactful web experiences.
+I’m a junior **Frontend Engineer in training**, currently learning the foundations of web development with a strong focus on **HTML, CSS, and JavaScript**.
 
-- 🌱 Currently learning: **HTML, CSS, JavaScript, Git, and GitHub**
-- 🔭 Working on: **Small practice projects to build my skills**
-- 🌍 Languages: **Arabic (native), English (fluent)**
-- 📫 How to reach me: **+201004351195 | [LinkedIn](https://www.linkedin.com/in/amanyashour001)**
-- ⚡ Fun fact: I love turning coffee into code ☕💻
+I’m passionate about turning ideas into interactive web experiences. My goal is to grow into a skilled developer who builds user-friendly and accessible websites.
 
-## My Skills 🧠
+- 🌱 Currently learning: HTML, CSS, JavaScript, Git & GitHub
+- 💻 Learning with: ALX Foundations Program
+- 🎯 Future goals: Build real-world projects and contribute to open-source
+- 🌍 Languages I speak: Arabic 🇪🇬 | English 🇬🇧
+- 📬 How to reach me: 
+  - 📧 amany.dev@email.com *(you can change it)*
+  - 💬 WhatsApp: [+201004351195](https://wa.me/201004351195)
+  - 💼 [LinkedIn](https://www.linkedin.com/in/amanyashour)
+  - 🎨 [Behance (Graphic Work)](https://www.behance.net/amanyashour001)
+
+---
+
+## 🧠 My Skills (so far)
 
 ![HTML](https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
-## Featured Projects 💻
+I’m still exploring JavaScript and React soon!
 
-🚧 I’m currently working on my first web projects — stay tuned!
+---
 
-## Get in Touch 📬
+## 📌 What I’m Working On
 
-- **Phone / WhatsApp:** +201004351195  
-- **LinkedIn:** [linkedin.com/in/amanyashour001](https://www.linkedin.com/in/amanyashour001)  
-- **Email:** amanyfrontend@email.com  
+Since I’m just getting started in frontend development, I’m focusing on:
+- Solidifying the basics with mini-projects
+- Practicing daily on frontend mentors and challenges
+- Building clean, semantic code
+- Creating my first portfolio soon!
+
+---
+
+## ✨ Fun Fact
+
+I come from a graphic design background and I’m now combining creativity with code to build amazing web experiences!
+
+---
+
+> “Every expert was once a beginner. I’m showing up, learning, and building — one line at a time.” 🧩
 
